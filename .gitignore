@@ -1,2 +1,9 @@
 *.log
 *.zip
+*.msg
+*.rad
+*.rmd
+*.rplt
+*.minf
+*.minp
+*.mres
